@@ -36,4 +36,4 @@ Soy estudiante de Ingeniería en Computación en la Facultad de Estudios Superio
 Mi objetivo es seguir aprendiendo y creciendo en el ámbito del desarrollo y la ingeniería, buscando siempre mejorar y aplicar nuevas tecnologías.
 
 🔗 Conecta conmigo
-<p align="center"> <a href="#" target="_blank"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> </a> <a href="#" target="_blank"> <img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/> </a> <a href="#" target="_blank"> <img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/> </a> <a href="#" target="_blank"> <img alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" height="31" width="164"/> </a> </p>
+<p align="center"> <a href="https://www.instagram.com/holayosoyprado/" target="_blank"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> </a> </p>
