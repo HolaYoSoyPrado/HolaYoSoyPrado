@@ -5,23 +5,28 @@ Soy estudiante de Ingeniería en Computación en la Facultad de Estudios Superio
 
 ## Desarrollo Web:
 
---> MySQL, PHP y XAMPP: Creación de bases de datos y gestión de servidores Apache para aplicaciones web.
+--> MySQL, PHP y XAMPP: Creación de bases de datos y gestión de servidores Apache para aplicaciones web. 
+
 --> HTML, CSS y JavaScript: Diseño y desarrollo web, asegurando una experiencia de usuario completa y funcional.
 
 ## Programación y Desarrollo:
 
 --> Python: Análisis de datos y resolución de problemas matemáticos, clave en mi formación académica.
+
 --> Unity: Desarrollo de videojuegos, explorando nuevas técnicas y mejorando habilidades en diseño interactivo.
 
 ## Herramientas y Entornos de Desarrollo:
 
 --> Apache NetBeans: Utilizado en un proyecto académico para sistemas de ventas.
+
 --> Android Studio con Flutter y Firebase: Desarrollo de aplicaciones móviles, integrando diseño y bases de datos en tiempo real.
+
 --> Cisco Packet Tracer: Simulación y práctica en redes, fundamental para comprender la gestión de redes.
 
 ## Hardware y Electrónica:
 
 --> Quartus y Arduino: Experiencia con circuitos y simulaciones electrónicas.
+
 --> Optimización y Ensamblaje de Equipos: Interés en hardware, desde ensamblaje hasta la optimización del rendimiento de equipos.
 
 ## Sistemas Operativos:
