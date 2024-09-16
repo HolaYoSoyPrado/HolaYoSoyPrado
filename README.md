@@ -25,9 +25,3 @@ Soy estudiante de Ingeniería en Computación en la Facultad de Estudios Superio
 
 Mi objetivo es seguir aprendiendo y creciendo en el ámbito del desarrollo y la ingeniería, buscando siempre mejorar y aplicar nuevas tecnologías.
 
-## 🔗 Conecta conmigo
-<p align="left"> 
-  <a href="https://www.instagram.com/holayosoyprado/" target="_blank"> 
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> 
-  </a> 
-</p>
