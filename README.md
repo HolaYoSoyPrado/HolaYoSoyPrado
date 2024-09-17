@@ -30,4 +30,8 @@ Mi objetivo es seguir aprendiendo y creciendo en el ámbito del desarrollo y la 
   <a href="https://www.instagram.com/holayosoyprado/" target="_blank"> 
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> 
   </a> 
+  <a href="https://www.linkedin.com/in/leonardo-prado-59b6b9265/" target="_blank"> 
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/> 
+  </a> 
 </p>
+
