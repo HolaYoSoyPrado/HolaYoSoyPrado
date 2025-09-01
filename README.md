@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy José Leonardo Prado González
 
-## 💻 Ingeniero en Computación | Desarrollo Web | Videojuegos | Ciberseguridad  
+## 💻 Ingeniero en Computación 
 
 Soy **estudiante de Ingeniería en Computación** en la **FES Aragón, UNAM (2020-2024)** con experiencia en proyectos académicos y personales enfocados en el **análisis, la resolución de problemas y el desarrollo de soluciones tecnológicas efectivas y seguras**.  
 
