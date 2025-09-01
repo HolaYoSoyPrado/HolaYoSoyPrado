@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Leonardo
 
-## 💻 Ingeniero en Computación 
+## 💻 Ingeniero en Computación
 
 Soy **estudiante de Ingeniería en Computación** en la **FES Aragón, UNAM (2020-2024)** con experiencia en proyectos académicos y personales enfocados en el **análisis, la resolución de problemas y el desarrollo de soluciones tecnológicas efectivas y seguras**.  
 
@@ -17,24 +17,19 @@ Me destaco por mi **liderazgo, trabajo en equipo, comunicación efectiva y motiv
 ## 🚀 Tecnologías y Experiencia  
 
 ### 🌐 Desarrollo Web  
-- **HTML, CSS, JavaScript** → Interfaces funcionales y responsivas  
-- **PHP, MySQL, XAMPP** → Aplicaciones web con bases de datos y servidores Apache  
+Tengo experiencia en la creación y gestión de bases de datos utilizando **MySQL, PHP y XAMPP**, así como en el diseño y desarrollo de interfaces web funcionales y responsivas con **HTML, CSS y JavaScript**.  
 
 ### 🎮 Programación y Videojuegos  
-- **Python** → Análisis de datos y soluciones computacionales  
-- **Unity** → Videojuegos y simulaciones interactivas  
+He desarrollado soluciones computacionales y análisis de datos con **Python**, y he creado videojuegos y simulaciones interactivas utilizando **Unity**, aplicando principios de diseño y lógica de programación.  
 
-### 🛠️ Herramientas y Entornos  
-- **Apache NetBeans** → Desarrollo de un sistema de ventas académico  
-- **Android Studio + Flutter + Firebase** → Aplicaciones móviles con datos en tiempo real  
-- **Cisco Packet Tracer** → Simulación de redes e infraestructuras  
+### 🛠️ Herramientas y Entornos de Desarrollo  
+He trabajado en proyectos académicos con **Apache NetBeans**, incluyendo un sistema de ventas, y he desarrollado aplicaciones móviles integrando **Android Studio, Flutter y Firebase**, con sincronización de datos en tiempo real. Además, cuento con experiencia en la **simulación de redes y gestión de infraestructuras** mediante **Cisco Packet Tracer**.  
 
 ### ⚡ Hardware y Electrónica  
-- **Arduino & Quartus** → Prototipos y simulaciones de circuitos electrónicos  
-- **Armado y Optimización de PCs** → Ensamblaje, diagnóstico y rendimiento  
+Tengo conocimientos en el **diseño y simulación de circuitos electrónicos** usando **Arduino y Quartus**, así como en la **optimización y ensamblaje de equipos computacionales**.  
 
 ### 🔐 Sistemas Operativos  
-- **Windows y Linux (Ubuntu, Kali)** → Desarrollo, pruebas y ciberseguridad  
+Manejo tanto entornos **Windows** como **Linux (Ubuntu y Kali)**, lo que me permite adaptarme a diferentes plataformas y contextos de desarrollo.  
 
 ---
 
