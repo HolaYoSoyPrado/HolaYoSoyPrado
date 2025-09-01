@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Leonardo Prado
+# 👋 ¡Hola! Soy Leonardo
 
 ## 💻 Ingeniero en Computación 
 
