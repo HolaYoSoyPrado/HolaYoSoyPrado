@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy José Leonardo Prado González
+# 👋 ¡Hola! Soy Leonardo Prado
 
 ## 💻 Ingeniero en Computación 
 
